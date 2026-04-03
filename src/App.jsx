@@ -1,4 +1,4 @@
-import ReactTraining from "./components/ReactTraining";
+import ReactTraining from "./components/ReactTraining/ReactTraining";
 import "./App.css";
 
 const App = () => {
